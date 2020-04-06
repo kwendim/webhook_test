@@ -1,0 +1,26 @@
+---
+title: Deploying Registry Server
+description: Learning to deploy a local registry starts here, and it couldn't be any easier.
+time: 5 minutes
+details:
+  intro:
+    text: intro.html
+  steps:
+  - title: task 1 step
+    text: step1.html
+  - title: task 2 step
+    text: step2.html
+  - title: task 3 step
+    text: step3.html
+  - title: task 4 step
+    text: step4.html
+  - title: task 5 step
+    text: step5.html
+  - title: task 6 step
+    text: step6.html
+  - title: task 7 step
+    text: step7.html
+  - title: task 8 step
+    text: step8.html
+  finish:
+    text: finish.html

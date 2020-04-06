@@ -1,0 +1,18 @@
+---
+title: Create and Execute a Dockerfile
+time: 5 minutes
+description: Create and Execute a Dockerfile.
+details:
+  intro:
+    text: intro.html
+  steps:
+  - title: task 1 step
+    text: step1.html
+  - title: task 2 step
+    text: step2.html
+  - title: task 3 step
+    text: step3.html
+  - title: task 4 step
+    text: step4.html
+  finish:
+    text: finish.html

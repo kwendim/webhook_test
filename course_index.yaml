@@ -1,0 +1,30 @@
+---
+title: Docker
+icon: fa-docker
+description: Learn how Docker work
+labs:
+  - title: Running your first Docker container
+    description: Learn how to install Docker and run your first container
+    directory: /docker-01-exercise01
+    number_of_tasks: 4
+  - title: Introduction to Docker
+    description: Explore Docker help, pull images from dockerhub and launch containers from images.
+    directory: /docker-02-introduction-docker
+    number_of_tasks: 3
+  - title: Create and Execute a Dockerfile
+    description: Explore Docker help, pull images from dockerhub and launch containers from images.
+    directory: /docker-03-dockerfile
+    number_of_tasks: 4
+  - title: Docker Compose Basics
+    description: One of Docker's effective tools is Docker Compose, and you can learn the very basics here.
+    directory: /docker-04-docker-compose-basics
+    number_of_tasks: 7
+  - title: Deploying Registry Server
+    description: Learning to deploy a local registry starts here, and it couldn't be any easier.
+    directory: /docker-05-deploying-registry-server
+    number_of_tasks: 8
+  - title: Practice Docker Basics
+    description: Practice makes perfect, and Docker is no different. Let's get some more pratice with Docker Basics.
+    directory: /docker-06-practice-docker-basics
+    number_of_tasks: 5
+    

@@ -1,0 +1,18 @@
+---
+title: Running your first Docker container
+time: 5 minutes
+description: Learn how to install Docker and run your first container
+details:
+  intro:
+    text: 000-introduction.html
+  steps:
+  - title: task 1 step
+    text: 001-prerequisites.html
+  - title: task 2 step
+    text: 002-running-docker.html
+  - title: task 3 step
+    text: 003-todo1.html
+  - title: task 4 step
+    text: 002-running-docker.html
+  finish:
+    text: finish.html
