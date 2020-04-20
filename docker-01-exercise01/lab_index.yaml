@@ -4,15 +4,15 @@ time: 5 minutes
 description: Learn how to install Docker and run your first container
 details:
   intro:
-    text: 000-introduction.html
+    text: 000-introduction.rst
   steps:
   - title: task 1 step
-    text: 001-prerequisites.html
+    text: 001-prerequisites.rst
   - title: task 2 step
-    text: 002-running-docker.html
+    text: 002-running-docker.rst
   - title: task 3 step
-    text: 003-todo1.html
+    text: 003-todo1.rst
   - title: task 4 step
-    text: 002-running-docker.html
+    text: 002-running-docker.rst
   finish:
-    text: finish.html
+    text: finish.rst
